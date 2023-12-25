@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+    color: white;
+}
+#image1 {
+    display: flex;
+    justify-content: center;
+
+}
+#abovePic {
+    display: flex;
+    justify-content: space-between;
+}
+
+#image2 {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    border: 1px solid black;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+}
+
+table, tr, td, th {
+    border: 1px solid black;
+    background-color: indigo;
+}
+
+#workShop {
+    font-size: 50px;
+}
+
+#mainHeader{
+    display: flex;
+    justify-content: center;
+}
+#personDetails {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color:green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+#previous {
+    background-color: red;
+}
+#shipPrevious {
+    background-color: red;
+}
+
+
+
+
+
+
